@@ -419,3 +419,42 @@ body{
         font-size: var(--ts);
     }
 }
+
+@media only screen and (min-device-width: 355px) and (max-device-width: 399px) {
+    :root{
+        --ts1: 0.8rem;
+        --motto-2: 1rem;
+        --motto:1.2rem;
+    }
+
+    .motto-2{
+        margin-top: 60%;
+    }
+    .motto-2-1{
+        margin-top: 35%;
+    }
+    .start{
+        width: 5rem;
+        font-size: 1.5vw;
+    }
+    .submit-btn{
+        height: 1rem;
+        width: 2rem;
+    }
+    .form-sizing{
+        font-size: 2vw;
+    }
+    .form-body-2{
+        display: flex;
+        align-content: flex-start;
+    }
+    .name{
+        width: 60%;
+    }
+    .front-left{
+        font-size: var(--ts);
+    }
+    .headings{
+        font-size: 1rem;
+    }
+}
