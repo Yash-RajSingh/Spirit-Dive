@@ -11,10 +11,10 @@ Try it out here : [Spirit Dive](https://yash-rajsingh.github.io/Spirit-Dive/)
 * Play some meditaion music at 397 HZ which destroys unconscious blockages and negativity and helps the user heal spiritually.
 * Plays a series of pre-defined voice messageS that are intented to comfort the user.
 ---
-## HOW TO USE
-* Land on the website using the link :- [Spirit Dive](https://yash-rajsingh.github.io/Spirit-Dive/)
-* Enter your first name and the required inputs
-* Click on submit, sit back and let the universe work its magic on you! 😉
+## Info
+* Visit the website :- [Spirit Dive](https://yash-rajsingh.github.io/Spirit-Dive/)
+* Sit back and let the universe work its magic on you! 😉
+* Spirit Dive won a spot in the top 10 teams in the online hackathon event ElytraHacks'21
 ---
 ## License
 © Yash-Raj-Singh
