@@ -14,7 +14,7 @@ Try it out here : [Spirit Dive](https://yash-rajsingh.github.io/Spirit-Dive/)
 ## Info
 * Visit the website :- [Spirit Dive](https://yash-rajsingh.github.io/Spirit-Dive/)
 * Sit back and let the universe work its magic on you! 😉
-* Spirit Dive won a spot in the top 10 teams in the online hackathon event ElytraHacks'21
+* Spirit Dive won a spot in the top 10 teams in the online hackathon event <b>ElytraHacks'21</b>
 ---
 ## License
 © Yash-Raj-Singh
